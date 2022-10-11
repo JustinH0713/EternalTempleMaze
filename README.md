@@ -18,7 +18,7 @@ https://drive.google.com/file/d/1J3-Ox-ZRv2YiSvUyypWM9EBkwB_w13sm/view?usp=shari
 
 # Videos
 
-Video 1: Gates And Grabbables 
+Video 1: Gates And Grabbables   
 https://drive.google.com/file/d/1_QJAVJmMIKqe8RrkNSBzSAghdDH5DSo7/view?usp=sharing
 
 Video 2: Teleporter Activation  
