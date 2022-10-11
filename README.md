@@ -18,15 +18,27 @@ https://drive.google.com/file/d/1J3-Ox-ZRv2YiSvUyypWM9EBkwB_w13sm/view?usp=shari
 
 # Videos
 
+Video 1
 https://drive.google.com/file/d/1My8hG0mLVaNgcdEGNaGb3fT9UfV8IxuO/view?usp=sharing
+
+Video 2
 https://drive.google.com/file/d/1Z8A2OXnN-fZww6VADIMmmip8hQcBa03s/view?usp=sharing
+
+Video 3
 https://drive.google.com/file/d/1My8hG0mLVaNgcdEGNaGb3fT9UfV8IxuO/view?usp=sharing
 
 # Assets
 
+Fantasy Skybox Free
 https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353
+
+Sets - Gems
 https://assetstore.unity.com/packages/3d/props/sets-gems-19902
+
+Total Music Collection
 https://assetstore.unity.com/packages/audio/music/orchestral/total-music-collection-89126
+
+Eternal Temple
 https://assetstore.unity.com/packages/3d/environments/fantasy/eternal-temple-65780
 
 
