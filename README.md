@@ -41,7 +41,7 @@ https://assetstore.unity.com/packages/audio/music/orchestral/total-music-collect
 Eternal Temple
 https://assetstore.unity.com/packages/3d/environments/fantasy/eternal-temple-65780
 
-![](EternalTempleMaze/mazeblueprint.jpg)
+![](mazeblueprint.jpg)
 
 
 
